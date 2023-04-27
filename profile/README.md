@@ -1,6 +1,5 @@
 # KloudLite
-
-is a DevOps and InfraOps automation company.
+a DevOps and InfraOps automation company.
 
 ## Objective
 To develop an intuitive, versatile platform focused on Infrastructure and 
