@@ -35,6 +35,9 @@ Follow us on [Twitter](https://twitter.com/Kloudlite) and [LinkedIn](https://lin
 ## License
 Kloudlite is proud to be an open-source project licensed under the Apache License 2.0. [View License](https://github.com/Kloudlite/license).
 
+## Acknowledgements
+We are deeply grateful to the developers and community behind WireGuard for their outstanding work in providing a simple yet secure VPN solution. WireGuard has been instrumental in making Kloudlite's seamless and secure development environments possible. Thank you for your invaluable contribution to the open-source community.
+
 ---
 
 Thank you for visiting our GitHub organization! We're excited to see what we can build together in the Kloudlite community.
